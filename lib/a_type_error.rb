@@ -1,3 +1,3 @@
 1 + 1
-
-1 + "is the loneliest number".to_s
+word = "is the loneliest number"
+1 + word.to_s
